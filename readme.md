@@ -14,3 +14,6 @@ The *pythonKit* folder has the following files:
  # For Offline(Wallet Api) Checksum Utility below are the methods:
   1. generate_checksum_by_str : For generating the checksum
   2. verify_checksum_by_str : For verifing the checksum
+
+# Example
+* [Python-Django Example](https://github.com/harishbisht/paytm-django) 
